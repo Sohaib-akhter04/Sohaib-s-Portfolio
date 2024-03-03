@@ -1,25 +1,33 @@
 [
     {
-      "title": "Project A",
+      "title": "Mighty Rides",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "description": "Developed a platform for car trading, allowing to buy, sell, and browse cars ",
+      "skills": ["PHP", "HTML", "CSS","JS"],
+      "demo": "https://github.com/Sohaib-akhter04/MIGHTY-RIDES",
+      "source": "https://github.com/Sohaib-akhter04/MIGHTY-RIDES"
     },
     {
-      "title": "Project B",
+      "title": "Neural Network for digit ",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "description": "Developed a neural network model for handwritten digits classification.",
+      "skills": ["tensorflow"],
+      "demo": "https://github.com/Sohaib-akhter04/Neural-Network-For-Handwritten-Digits-Classification",
+      "source": "https://github.com/Sohaib-akhter04/Neural-Network-For-Handwritten-Digits-Classification"
     },
     {
-      "title": "Project C",
+      "title": "Algo Visualiser",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
+      "description": "Implemented a sorting visualizer project in HTML, CSS, and JavaScript.",
+      "skills": ["HTML", "CSS", "JS","bootstrap"],
+      "demo": "https://github.com/Sohaib-akhter04/Sorting-visualizer-via-input-tag",
+      "source": "https://github.com/Sohaib-akhter04/Sorting-visualizer-via-input-tag"
+    },
+    {
+      "title": "DevOps-driven Authentication System",
+      "imageSrc": "projects/project.png",
+      "description": " SecureLogin is an authentication system built with a DevOps mindset,  ensuring reliability.",
+      "skills": [],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
     }
